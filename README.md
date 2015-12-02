@@ -63,3 +63,5 @@ We see:
 - buttons
 
 There are even more elements to find and use - try searching for them!
+
+<a href='https://learn.co/lessons/cssi-3.7-html-forms-and-jquery' data-visibility='hidden'>View this lesson on Learn.co</a>
