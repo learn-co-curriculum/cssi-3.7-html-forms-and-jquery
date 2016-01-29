@@ -64,4 +64,4 @@ We see:
 
 There are even more elements to find and use - try searching for them!
 
-<a href='https://learn.co/lessons/cssi-3.7-html-forms-and-jquery' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-3.7-html-forms-and-jquery' title='Html Forms And Jquery'>Html Forms And Jquery</a> on Learn.co and start learning to code for free.</p>
